@@ -35,7 +35,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
               <span className="block">Okoth Arnold</span>
               <span className="block text-blue-600 dark:text-blue-400">
-                Python + Cloud Developer
+                Python + Backend Developer
               </span>
             </h1>
             

@@ -49,7 +49,7 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'okoth.arnold@example.com',
+      value: 'okoth.4rn0h@gmail.com',
       link: 'mailto:okoth.arnold@example.com'
     },
     {
